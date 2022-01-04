@@ -1,4 +1,4 @@
-### Hello there 👋 (kenebi)
+### Hello there 👋 (Kenobi voice)
 
 <!--
 **souzen/souzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
